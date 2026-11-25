@@ -1,0 +1,7 @@
+ID Soal,ID Ujian,Jenis Soal,Teks Soal,Pilihan A,Pilihan B,Pilihan C,Pilihan D,Kunci Jawaban,Jawaban Acuan,Rubrik Penilaian,Bobot,Nomor Urut
+S001,UJ001,Pilihan Ganda,Apa fungsi utama klorofil pada tumbuhan?,Menyerap energi cahaya,Mengangkut air,Menyimpan oksigen,Menyerap mineral,A,,,10,1
+S002,UJ001,Pilihan Ganda,Organ tumbuhan yang paling banyak melakukan fotosintesis adalah ...,Akar,Daun,Batang,Bunga,B,,,10,2
+S003,UJ001,Pilihan Ganda,Gas yang diserap tumbuhan dalam proses fotosintesis adalah ...,Oksigen,Nitrogen,Karbon dioksida,Hidrogen,C,,,10,3
+S004,UJ001,Pilihan Ganda,Hasil utama fotosintesis berupa ...,Glukosa dan oksigen,Air dan nitrogen,Protein dan karbon,Mineral dan air,A,,,10,4
+S005,UJ001,Pilihan Ganda,Sumber energi utama dalam fotosintesis adalah ...,Angin,Cahaya matahari,Tanah,Air hujan,B,,,10,5
+S006,UJ001,Esai,Jelaskan secara singkat proses fotosintesis pada tumbuhan!,,,,,,Fotosintesis adalah proses tumbuhan hijau mengubah air dan karbon dioksida menjadi glukosa dan oksigen dengan bantuan energi cahaya dan klorofil.,"Nilai berdasarkan: (1) menyebut air dan karbon dioksida sebagai bahan, (2) menyebut cahaya dan klorofil, (3) menyebut glukosa dan oksigen sebagai hasil. Beri skor proporsional sesuai kelengkapan jawaban.",50,6
