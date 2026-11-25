@@ -89,6 +89,7 @@ Tampilan harus sederhana, mudah digunakan, dan nyaman di HP maupun komputer.
 - AI memberikan nilai dan umpan balik untuk setiap jawaban.
 - Guru tetap dapat memeriksa dan mengoreksi hasil penilaian AI.
 - Jika AI gagal memberikan penilaian, jawaban tidak boleh otomatis dianggap salah atau mendapat nilai nol. Jawaban harus ditandai untuk diperiksa guru.
+- Di google sheet terdapat menu untuk menilai esai dengan AI untuk baris yang dicentang sebagai alternatif jika AI sedang sibuk dan gagal menilai saat siswa mengirim jawaban.
 
 ### G. Hasil Ujian
 
@@ -213,6 +214,7 @@ Project dianggap berhasil apabila:
 ---
 
 **Prinsip pengembangan:** Buat aplikasi sesederhana mungkin, pastikan fitur utama berjalan dengan baik, dan utamakan kemudahan penggunaan oleh guru dan siswa.
+
 
 ## 10. File pendukung
 - URL Lokasi Google Sheets: url-google-sheet
